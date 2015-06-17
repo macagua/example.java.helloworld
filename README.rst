@@ -1,7 +1,7 @@
 example.java.helloworld
 =======================
 
-"Hello World" Example for Java based a articule.
+This is "Hello World" Example for Java.
 
 The structure ``HelloWorld`` package is like this: ::
 
@@ -12,11 +12,17 @@ The structure ``HelloWorld`` package is like this: ::
   |-- Manifest.txt
   `-- README.md
 
+Compile class
+-------------
+
 For compile the main class for package, execute the follow command: ::
 
   javac HelloWorld/Main.java
 
 This generate the ``Main.class`` file into ``HelloWorld`` directory.
+
+Run class
+---------
 
 For run the main class for package, execute the follow command: ::
 
@@ -24,9 +30,16 @@ For run the main class for package, execute the follow command: ::
 
 This show the ``Hello world`` message.
 
+Create a JAR file
+-----------------
+
 For pack the main class for package as a JAR file, execute the follow command: ::
 
   jar cfme Main.jar Manifest.txt HelloWorld.Main HelloWorld/Main.class
+
+
+Run a JAR file
+--------------
 
 For run the JAR file packed, execute the follow command: ::
 
