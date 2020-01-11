@@ -3,3 +3,4 @@ this is jenkins file from added to libraies
 to cal the directoly after that 2 mintes by default script add to 
 jenkins server after that stage 1 build is going on
 latest next stage testing
+after that deployment is going on and code cheacking code quality is running
