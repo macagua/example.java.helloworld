@@ -1,8 +1,3 @@
-hi hello
-how are you
-am fine what about you
-aws jenkins git github tomcat under mounts home it will
-stored linux cpu memory from home firectory....
 now am practice git and jenkins ci/cd..
 am looking forward then i will take desicion 
 i want difference b/w files usee=ing git diff
