@@ -1,20 +1,6 @@
-<<<<<<< HEAD
-12. How to create a backup and copy files in Jenkins?
-If you want to create a back-up of your Jenkins setup, just copy the directory that saves all the setting, build artifacts and logs of Jenkins in its home directory. You can also copy a job directory to clone or replicate a job or rename the directory.
-JENKINS Interview Questions
-13. How you can clone a Git repository via Jenkins?
-To clone a Git repository via Jenkins, you have to enter the e-mail and user name for your Jenkins system. For that, you have to switch into your job directory and execute the âgit configâ command.
-14. How you can set up Jenkins job?
-To create a project that is handled via jobs in Jenkins. Select New item from the menu, once this done enter a name for the job and select free-style job. Then click OK to create new job in Jenkins. The next page enables you to configure your job.
-15. What are the two components Jenkins is mainly integrated with?
-Jenkins is integrated with these two components:
-=======
-hi hello
-how are you
-am fine what about you
-aws jenkins git github tomcat under mounts home it will
-stored linux cpu memory from home firectory....
+
 now am practice git and jenkins ci/cd..
 am looking forward then i will take desicion 
 i want difference b/w files usee=ing git diff
->>>>>>> koneti
+am work here
+
