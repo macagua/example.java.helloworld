@@ -1,7 +1,7 @@
 example.java.helloworld
 =======================
 
-This is "Hello World" Example for Java.
+This is "Hi! World" Example for Java.
 
 The structure ``HelloWorld`` package is like this: ::
 
