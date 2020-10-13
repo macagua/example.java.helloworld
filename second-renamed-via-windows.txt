@@ -5,5 +5,6 @@ Added in master before rebase. - Kumar
 Added after rebase branch modified. - Kumar
 
 Added before big-trouble modified.
+Added before aborting rebase in master
 
 
