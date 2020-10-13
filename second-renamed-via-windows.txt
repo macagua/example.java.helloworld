@@ -1,6 +1,5 @@
-seocnd file
-text
+second file
 I added this line.
-
 another line added here
+Modified in master branch.
 
