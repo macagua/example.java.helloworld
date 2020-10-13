@@ -1,11 +1,6 @@
 second file
 I added this line.
 Alex modified
-Added in master before rebase. - Kumar
-Added after rebase branch modified. - Kumar
-Modified in big-trouble after master branch is modified before merge.
-
-
 Added before big-trouble modified.
 <<<<<<< HEAD
 Added before aborting rebase in master
