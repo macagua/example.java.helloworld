@@ -1,4 +1,5 @@
 second file
 I added this line.
 Alex modified
+Added in master before rebase.
 
