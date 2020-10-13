@@ -1,5 +1,6 @@
 second file
 I added this line.
 Alex modified
-Added after rebase branch modified.
+Added in master before rebase. - Kumar
+Added after rebase branch modified. - Kumar
 
