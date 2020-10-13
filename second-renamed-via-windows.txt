@@ -1,12 +1,3 @@
-second file
-I added this line.
-Alex modified
-Added before big-trouble modified.
-<<<<<<< HEAD
-Added before aborting rebase in master
-=======
-Adding 2nd attempt in big-trouble 
-
->>>>>>> e9c962a... In big-trouble, 2nd attempt
+remote: modified this text.
 
 
