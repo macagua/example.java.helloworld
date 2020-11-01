@@ -1,4 +1,4 @@
-package HelloWorld;
+package mypac;//always write package name in small letter
 
 public class Main
 {
