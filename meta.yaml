@@ -1,0 +1,4 @@
+name: spark
+cx_product: platform
+version: 0.0.1
+deployable_type: spark
